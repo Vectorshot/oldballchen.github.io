@@ -1,9 +1,10 @@
+
 title: OldBall Blog
 SEOTitle: OldBall的博客 | OldBall Blog
 header-img: img/post-bg-desk.jpg
 email: oldballchen@gmail.com
 description: "Coding is a long process,amigo"
-keyword: "vectorshot"
+keyword: "vectorshot, OldBall"
 url: "https://vectorshot.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Vectorshot/vectorshot.github.io" # you code repository
