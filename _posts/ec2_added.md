@@ -1,14 +1,15 @@
 ---
-layout: post
-title: 创建Amazon EC2 instance 利用sftp传输本地文件 
-subtitle: DSCI551 Lab1
-date: 2020-09-25
+layout:		post
+title:		创建Amazon EC2 instance 利用sftp传输本地文件 
+subtitle:		DSCI551 Lab1
+date:		2020-09-25
+author:		OB
 header-img: img/bgimg6.jpg
 catalog: true
 tags:
-	-server
-	-EC2
-	-Linux
+	- server
+	- EC2
+	- Linux
 ---
 
 
