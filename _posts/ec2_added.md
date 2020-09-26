@@ -99,6 +99,8 @@ ec2-user为默认用户
 
 ssh -i "dsci551_fa20.pem" ec2-user@[dns ip]
 
+直接复制的是dns ip，没有ec2-user
+
 @后为dns ip
 
 ![image-20200902230919584](C:\Users\11849\AppData\Roaming\Typora\typora-user-images\image-20200902230919584.png)
